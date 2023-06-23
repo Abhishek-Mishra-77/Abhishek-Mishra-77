@@ -9,10 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Pythone**
+- 🌱 I’m currently learning **Java , javascript  , react**
 //https://aayanshsingh07.github.io/gli/result/
 
-- 💬 Ask me about **Html , css , java**
+- 💬 Ask me about **Html , css , bootstrap , postman , crud-crude , apis  , java , javascript , react-fremework**
 
 - 📫 How to reach me **abhishekmishra992016@gmail.com**
 
