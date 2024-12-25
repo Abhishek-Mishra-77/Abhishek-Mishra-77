@@ -87,4 +87,12 @@ Explore all my projects and contributions on my [GitHub](https://github.com/abhi
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Mishra-77&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Abhishek" />
+<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=chhavi48&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="chhavi" /> -->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Mishra-77&show_icons=true&theme=radical&hide_border=true" alt="Abhishek" /></p>
+</div>
+</p>
+
 
