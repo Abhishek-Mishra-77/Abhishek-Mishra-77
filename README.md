@@ -1,53 +1,68 @@
-<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">Software Developer | Lifelong Learner</h3>
+<!-- Greeting and introduction -->
+<h1 align="center">Hi, I'm Abhishek Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<a href="#" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;MERN+Stack+Developer;Data+Structures+and+Algorithms;Full+Stack+Web+Developer" />
+</a>
+
+<hr/>
+
+<div align="center">
+  <p align="center">
+    I'm a passionate Full-Stack Web Developer with expertise in modern technologies like MERN Stack, HTML, CSS, JavaScript, React.js, Node.js, Express, MongoDB, MySQL, and more. With 1 year of professional experience, I enjoy solving complex problems and working on challenging projects. I'm also passionate about learning and sharing my knowledge through blog posts and technical content.
+  </p>
+</div>
+
+---
+
+## 🚀 What I Do
+- **Full-Stack Web Development** (MERN Stack)
+- **Data Structures and Algorithms Enthusiast**
+- **Fast Learner & Problem Solver**
+- Currently seeking opportunities as a **MERN Stack Developer**.
+
+---
+
+## 💻 Technologies & Tools
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek-mishra-77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,mysql" />
+  </a>
 </p>
 
-<h3 align="left">About Me</h3>
-<p align="left">
-  I'm a passionate software developer currently focused on building robust applications using the MERN stack. I enjoy tackling challenges and continuously learning new technologies such as Data Structures and Algorithms, Next.js, and TypeScript.
+---
+
+## 📂 Projects
+Explore all my projects and contributions on my [GitHub](https://github.com/abhishek-mishra-77) or visit my [Linktree](https://linktr.ee/abhishekmishra07) for more.
+
+---
+
+## 🔎 Ask Me About
+- MERN Stack Development
+- Data Structures & Algorithms
+- Problem-Solving Strategies
+
+---
+
+## 📞 Contact Me
+- 📧 Email: [abhishekmishra992016@gmail.com](mailto:abhishekmishra992016@gmail.com)
+- 📄 [View Resume/CV](https://drive.google.com/file/d/1cCxSvDLIykrJ-SbtiT4waPqP_6qP4DcB/view)
+
+---
+
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekmishra77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/abhishekm_developer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com/u/abhishekmishra992016/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23F1F1F1?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/abhishekmissfie/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C7B7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://codepen.io/abhishekmishra07" target="_blank"><img src="https://img.shields.io/badge/CodePen-%23131417?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
 
-<h3 align="left">Current Learning</h3>
-<ul>
-  <li>Data Structures and Algorithms (DSA)</li>
-  <li>Next.js</li>
-  <li>TypeScript</li>
-</ul>
+---
 
-<h3 align="left">Projects</h3>
-<p align="left">
-  All of my projects are available at <a href="https://linktr.ee/abhishekmishra07" target="_blank">this link</a>.
-</p>
-
-<h3 align="left">Ask Me About</h3>
-<ul>
-  <li>MERN Stack</li>
-  <li>Data Structures and Algorithms</li>
-</ul>
-
-<h3 align="left">Contact</h3>
-<p align="left">
-  📫 You can reach me at <a href="mailto:abhishekmishra992016@gmail.com">abhishekmishra992016@gmail.com</a>
-</p>
-
-<p align="left">
-  📄 View my experience <a href="https://drive.google.com/file/d/1cCxSvDLIykrJ-SbtiT4waPqP_6qP4DcB/view" target="_blank">here</a>.
-</p>
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://codepen.io/abhishekmishra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/abhishekmishra77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/abhishekm_developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/abhishekmishra992016/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/abhishekmissfie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🔧 Languages & Tools
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -69,13 +84,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Statistics</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-mishra-77&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-mishra-77&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mishra-77" alt="GitHub streak" />
-</p>
+---
+
+## 📊 GitHub Stats
+
