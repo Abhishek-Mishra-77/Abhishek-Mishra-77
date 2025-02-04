@@ -9,17 +9,21 @@
 
 <div align="center">
   <p align="center">
-  Hi there! 👋 I'm Abhishek Mishra, and thanks for stopping by my profile.
+ Hi, I'm Abhishek Mishra, a passionate Full-Stack Web Developer with a strong focus on React.js, Node.js, Express.js, MongoDB, MySQL, AWS, and the MERN stack.
 
-I’m a Software Developer at OMR India Outsources Pvt. Ltd., where I specialize in building dynamic and scalable web applications using React.js, Node.js, Express.js, MongoDB, MySQL, AWS, and the MERN stack. I have a strong passion for creating impactful solutions, and I thrive in environments where innovation, learning, and collaboration are at the forefront.
+With 2+ years of experience, I've worked extensively on both frontend and backend technologies. I’m always eager to take on new challenges and tackle complex projects that push me to learn and innovate. I’m also a mentor at Sharpener Tech, where I help guide and inspire the next generation of developers in technologies like React.js, Node.js, and MongoDB.
 
-When I'm not working on client projects, I serve as a part-time mentor at Sharpener Tech, where I get the chance to guide aspiring developers through both frontend and backend technologies. Helping others grow in areas like MongoDB, Express.js, React.js, and Node.js has been incredibly rewarding, and it also gives me the opportunity to continue learning myself.
+Here’s a bit about me:
 
-I’m always up for new challenges and love to dive into projects that push me to grow—both as a developer and as a person. Right now, I’m on the lookout for exciting opportunities to collaborate, solve complex problems, and keep improving my craft.
+✔️ I aspire to grow as a Full-Stack Developer, continuously honing my skills.
 
-Feel free to reach out to me at abhishekmishra992016@gmail.com if you'd like to connect, chat about opportunities, or discuss potential collaborations.
+✔️ I’m always learning and on the lookout for exciting MERN Stack opportunities that help me push the boundaries of web development.
 
-Let’s make something great together! 
+✔️ I’m passionate about team collaboration, sharing knowledge, and working on projects that make a real impact.
+
+Let’s connect and check out some of my projects on GitHub. Feel free to reach out at abhishekmishra992016@gmail.com if you want to chat, collaborate, or explore potential opportunities.
+
+Looking forward to what we can build together! 
   </p>
 </div>
 
