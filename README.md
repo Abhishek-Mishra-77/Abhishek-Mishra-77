@@ -9,17 +9,7 @@
 
 <div align="center">
   <p align="center">
-    Hi, I'm Abhishek Mishra, a passionate **Full-Stack Web Developer** with a strong focus on **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **AWS**, and the **MERN stack**.  
-    With **1+ years** of hands-on experience, I’ve tackled both frontend and backend technologies and love solving real-world problems. I'm always eager to learn and push myself further.  
-    I also mentor aspiring developers at **Sharpener Tech**, guiding them through technologies like **React.js**, **Node.js**, and **MongoDB**, helping them become future-ready developers.
-
-    ### Here’s a bit about me:
-    ✔️ I aspire to grow as a **Full-Stack Developer** and continue enhancing my skill set.  
-    ✔️ I am always learning and looking for **MERN Stack** opportunities to take my expertise to the next level.  
-    ✔️ I'm passionate about **team collaboration**, **knowledge sharing**, and building projects that make a meaningful impact.
-
-    Let’s connect and explore my projects on **GitHub**. Feel free to reach out to me at **abhishekmishra992016@gmail.com** to chat, collaborate, or discuss exciting opportunities.  
-    Looking forward to what we can achieve together! 🚀
+    I'm a passionate Full-Stack Web Developer with expertise in modern technologies like MERN Stack, HTML, CSS, JavaScript, React.js, Node.js, Express, MongoDB, MySQL , AWS, and more. With 1 year of professional experience, I enjoy solving complex problems and working on challenging projects. I'm also passionate about learning and sharing my knowledge through blog posts and technical content.
   </p>
 </div>
 
@@ -104,5 +94,4 @@ Explore all my projects and contributions on my [GitHub](https://github.com/abhi
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Mishra-77&show_icons=true&theme=radical&hide_border=true" alt="Abhishek" /></p>
 </div>
 </p>
-
 
