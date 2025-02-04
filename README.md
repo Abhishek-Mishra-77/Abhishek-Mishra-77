@@ -9,21 +9,17 @@
 
 <div align="center">
   <p align="center">
- Hi, I'm Abhishek Mishra, a passionate Full-Stack Web Developer with a strong focus on React.js, Node.js, Express.js, MongoDB, MySQL, AWS, and the MERN stack.
+    Hi, I'm Abhishek Mishra, a passionate **Full-Stack Web Developer** with a strong focus on **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **AWS**, and the **MERN stack**.  
+    With **1+ years** of hands-on experience, I’ve tackled both frontend and backend technologies and love solving real-world problems. I'm always eager to learn and push myself further.  
+    I also mentor aspiring developers at **Sharpener Tech**, guiding them through technologies like **React.js**, **Node.js**, and **MongoDB**, helping them become future-ready developers.
 
-With 2+ years of experience, I've worked extensively on both frontend and backend technologies. I’m always eager to take on new challenges and tackle complex projects that push me to learn and innovate. I’m also a mentor at Sharpener Tech, where I help guide and inspire the next generation of developers in technologies like React.js, Node.js, and MongoDB.
+    ### Here’s a bit about me:
+    ✔️ I aspire to grow as a **Full-Stack Developer** and continue enhancing my skill set.  
+    ✔️ I am always learning and looking for **MERN Stack** opportunities to take my expertise to the next level.  
+    ✔️ I'm passionate about **team collaboration**, **knowledge sharing**, and building projects that make a meaningful impact.
 
-Here’s a bit about me:
-
-✔️ I aspire to grow as a Full-Stack Developer, continuously honing my skills.
-
-✔️ I’m always learning and on the lookout for exciting MERN Stack opportunities that help me push the boundaries of web development.
-
-✔️ I’m passionate about team collaboration, sharing knowledge, and working on projects that make a real impact.
-
-Let’s connect and check out some of my projects on GitHub. Feel free to reach out at abhishekmishra992016@gmail.com if you want to chat, collaborate, or explore potential opportunities.
-
-Looking forward to what we can build together! 
+    Let’s connect and explore my projects on **GitHub**. Feel free to reach out to me at **abhishekmishra992016@gmail.com** to chat, collaborate, or discuss exciting opportunities.  
+    Looking forward to what we can achieve together! 🚀
   </p>
 </div>
 
