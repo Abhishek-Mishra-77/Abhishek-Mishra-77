@@ -9,7 +9,18 @@
 
 <div align="center">
   <p align="center">
-    I'm a passionate Full-Stack Web Developer with expertise in modern technologies like MERN Stack, HTML, CSS, JavaScript, React.js, Node.js, Express, MongoDB, MySQL, and more. With 1 year of professional experience, I enjoy solving complex problems and working on challenging projects. I'm also passionate about learning and sharing my knowledge through blog posts and technical content.
+  Hey! I'm Abhishek Mishra.
+Thank you for visiting my profile.
+
+I’m a Software Developer at OMR India Outsources Pvt. Ltd., specializing in React.js, Node.js, Express.js, MongoDB, MySQL, AWS, JavaScript, and the MERN stack. With a passion for creating impactful, scalable web applications, I thrive in environments that foster learning, collaboration, and innovation.
+
+In addition to my work at OMR, I also serve as a part-time mentor at Sharpener Tech, where I help students learn and grow in both frontend and backend technologies like MongoDB, Express.js, React.js, and Node.js. Mentoring has allowed me to not only pass on my knowledge but also continuously refine my skills by engaging with aspiring developers.
+
+I’m always eager to take on new challenges and contribute to projects that allow me to grow both personally and professionally. I’m currently seeking exciting opportunities to collaborate, solve complex problems, and continue honing my skills.
+
+Feel free to reach out to me at abhishekmishra992016@gmail.com if you're interested in discussing opportunities or collaboration.
+
+Let’s connect and explore what we can achieve together!
   </p>
 </div>
 
